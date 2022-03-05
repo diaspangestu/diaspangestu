@@ -1,52 +1,35 @@
-<h1 align="center">Hi 👋, I'm Nadias Pangestu</h1>
-<h3 align="center">Backend Enthusiast.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=diaspangestu&label=Profile%20views&color=0e75b6&style=flat"
-    alt="diaspangestu" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m currently learning Web Development like Go, PHP, Codeigniter and Laravel
-
-- 📫 How to reach me **npangestu4@gmail.com**
-
-- ⚡ Fun fact :- food and anime are the reasons to live.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/npangestu/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/diaspngstu/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-<!--   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://go.dev" target="_blank" rel="noreferrer"> <img
-      src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://www.php.net/images/logos/new-php-logo.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="hhttps://www.mysql.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="c" width="40" height="40" /> </a> </p>
-
-<br>
-
-<h3>Statistical Data :-</h3>
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nadias+Pangestu+%F0%9F%91%8B;Computer+Science+Graduate;Back-End+Enthusiast;Critical+Thinking;Problem-Solver;Freelancer;Coffee+Addict" alt="Headline" />
+    </div>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/npangestu/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://stackoverflow.com/users/18382080/nadias-pangestu"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://t.me/diaspangestu"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+    </div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+                Computer Science Graduate, Back-End Enthusiast, Critical Thinking, Problem Solver, Freelancer, and Coffee Addict.<br><br>
+                I currently learning Go Language and I have experience working with Codeigniter and Laravel.<br><br>
+                I am passionate about all Back-End Technologies and Cloud Computing<br><br>
+                Detailed-oriented and responsible, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>I’m currently learning</b>: Software Engineering specially Go Language.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/diaspangestu/diaspangestu/issues">Here</a>.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻) and Traveling(🌍),</li>
+        </ul>
+    </div>
+    <center>
+    <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=diaspangestu&show_icons=true&locale=en&layout=compact"
     alt="diaspangestu" /></p>
@@ -64,6 +47,10 @@
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=diaspangestu" alt="diaspangestu" /></a> </p>
+    </center>
 
-------------------------------------------------------------------------------------------------------------------------------------------
-[diaspangestu](https://github.com/diaspangestu)
+</div>
+
+------
+
+Credit: [Nadias Pangestu](https://github.com/diaspangestu)
