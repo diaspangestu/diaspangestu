@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadias Pangestu</h1>
-<h3 align="center">Fresh Graduate Computer Science.</h3>
+<h3 align="center">Backend Enthusiast.</h3>
 
 <br>
 
