@@ -25,7 +25,7 @@
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/diaspangestu/diaspangestu/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻) and Traveling(🌍),</li>
+            <li>😄 <b>Fun fact</b>: I love Codeing(💻) and Traveling(🌍),</li>
         </ul>
     </div>
     <center>
