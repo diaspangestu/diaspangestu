@@ -46,7 +46,7 @@
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=diaspangestu&theme=onedark" alt="diaspangestu" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=diaspangestu" alt="diaspangestu" /></a> </p>
     </center>
 </div>
 
