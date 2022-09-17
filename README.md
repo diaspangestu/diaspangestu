@@ -15,7 +15,7 @@
         <p>
             <strong>
                 Computer Science Graduate, Back-End Enthusiast, Critical Thinking, Problem Solver, Freelancer, and Coffee Addict.<br><br>
-                I currently learning Go Language and I have experience working with Codeigniter and Laravel.<br><br>
+                I currently learning Go Language.<br><br>
                 I am passionate about all Back-End Technologies and Cloud Computing<br><br>
                 Detailed-oriented and responsible, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
